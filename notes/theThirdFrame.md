@@ -41,3 +41,4 @@
    
    * OVal是一个可拓展的Java对象数据验证框架，验证的规则可以通过配置文件，Annotation、POJOs进行
    设定。可以使用纯Java语言、Javascript、Groovy、BeanShell等进行规则的编写
+   
